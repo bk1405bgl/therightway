@@ -1,0 +1,15 @@
+{
+  "name": "vx1g3m3u5e81/therightway",
+  "autoload": {
+    "psr-4": {
+      "Vx1g3m3u5e81\\Therightway\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Bilal Kuzey",
+      "email": "bilal@bk1405bgl.de"
+    }
+  ],
+  "require": {}
+}
